@@ -1,4 +1,4 @@
-roses and violets
-gremlins and giants
-something something
-three point fourteen
+roses and violets are green
+gremlins and giants are blue
+something something is orange
+three point fourteen is white
